@@ -12,18 +12,21 @@ We checked for missing values in the dataset and removed rows with missing data,
 
 
 ### Top 10 Highest Earning Professions
-![Gender Distribution]
 *A Bar plot depicting the highest paying job titles versus the mean salary.*
 <img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/6f7c4c5a-f7e4-47fd-b4e9-14d65872bd86" />
 
 
 ### Distribution of Continuous Variables
-![Age Distribution](images/Distribution.png)
 *This histogram shows the distribution of continuous variables in the dataset.*
+<img width="1189" height="1489" alt="image" src="https://github.com/user-attachments/assets/e8027e59-27a9-451b-8848-fa1a4f925a8a" />
+<img width="1189" height="1489" alt="image" src="https://github.com/user-attachments/assets/e61b5bbe-a35d-48fb-8f84-f8e1389f22f6" />
+
+
 
 ### Distribution of Education and Gender
-![Salary vs. Education](images/ed&gender_distribution.png)
 *A plot displaying the Education Level and Gender.*
+<img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/f1d8fe99-60ab-4b96-8007-8563ecd7a5db" /> <img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/11b9c418-591e-4d65-a274-dde276aa9a23" />
+
 
 ### Correlation Heatmap
 ![Correlation Heatmap](images/Heatmap.png)
@@ -39,8 +42,8 @@ We explored various machine learning algorithms, including Linear Regression, De
 Each model's performance was evaluated using several regression metrics, including Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared (R2) score. These metrics help assess the accuracy and reliability of the predictions.
 
 ### Feature Importance
-![Feature Importance](images/Feature_Imp.png)
 *A bar chart depicting the importance of different features in predicting salary.*
+<img width="1095" height="699" alt="image" src="https://github.com/user-attachments/assets/1ad29d8e-fe61-432b-ba6a-766f6be9ae9a" />
 
 ## Results
 
