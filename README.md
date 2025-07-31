@@ -12,8 +12,10 @@ We checked for missing values in the dataset and removed rows with missing data,
 
 
 ### Top 10 Highest Earning Professions
-![Gender Distribution](images/Top10.png)
+![Gender Distribution]
 *A Bar plot depicting the highest paying job titles versus the mean salary.*
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/6f7c4c5a-f7e4-47fd-b4e9-14d65872bd86" />
+
 
 ### Distribution of Continuous Variables
 ![Age Distribution](images/Distribution.png)
